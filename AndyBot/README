@@ -1,0 +1,11 @@
+README <AndyBot>
+
+HANDIN: Final
+
+DESIGN CHOICES: I chose to add all of the movements of andybot under the solve method.
+After I got andybot to move to the final location i nested the get hint code inside of the solve road block
+so that way when it solved the road block and entered the password it already had the hint. After it solved The
+password I had andybot take two steps forward to exit the maze. I made sure that when i called the solveRoadBlock
+and the enterPassword that i used "this" cause andybot was the one doing it. That's basically it for my design choices.
+
+KNOWN BUGS: No known bugs :)
